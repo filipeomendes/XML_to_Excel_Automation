@@ -1,4 +1,4 @@
-# 📊 eSocial XML to Excel Processor
+# 📊 eSocial XML to Excel Converter
 
 Python automation for reading, processing, and transforming eSocial XML files into a structured dataset ready for analysis in Excel.
 
